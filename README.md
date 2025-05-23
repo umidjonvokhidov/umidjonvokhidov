@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name] — Full-stack Developer | Next.js | MERN Stack
+# 👋 Hi, I’m Umidjon Vokhidov — Full-stack Developer | Next.js | MERN Stack
 
 I specialize in building **fast, scalable, and maintainable web applications** using **Next.js** and the **MERN stack** (MongoDB, Express, React, Node.js). Whether it’s frontend, backend, or a full end-to-end solution, I’m passionate about writing clean code and optimizing performance to deliver great user experiences.
 
