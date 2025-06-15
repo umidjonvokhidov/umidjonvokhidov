@@ -66,7 +66,7 @@ I'm a passionate **Full-stack Developer** from Uzbekistan with 3+ years of exper
 
 ## 💼 What I Do Best
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
@@ -145,10 +145,8 @@ I'm a passionate **Full-stack Developer** from Uzbekistan with 3+ years of exper
 <div align="center">
 
 <!-- Replace these with your actual repository names -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umidjonvokhidov&repo=ecommerce-nextjs&theme=tokyonight&hide_border=true)](https://github.com/umidjonvokhidov/ecommerce-nextjs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umidjonvokhidov&repo=task-management-app&theme=tokyonight&hide_border=true)](https://github.com/umidjonvokhidov/task-management-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umidjonvokhidov&repo=social-media-dashboard&theme=tokyonight&hide_border=true)](https://github.com/umidjonvokhidov/social-media-dashboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umidjonvokhidov&repo=real-time-chat-app&theme=tokyonight&hide_border=true)](https://github.com/umidjonvokhidov/real-time-chat-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umidjonvokhidov&repo=ecommerce-nextjs&theme=tokyonight&hide_border=true)](https://github.com/umidjonvokhidov/SalesSync)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umidjonvokhidov&repo=task-management-app&theme=tokyonight&hide_border=true)](https://github.com/umidjonvokhidov/bazpay)
 
 </div>
 
@@ -174,20 +172,6 @@ I'm a passionate **Full-stack Developer** from Uzbekistan with 3+ years of exper
 | Available for hire | Always interested | Helping juniors | Contributing actively |
 
 </div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░   68.2%
-TypeScript    3 hrs 45 mins  ██░░░░░░░░░░░░░░░   20.5%
-CSS           1 hr 15 mins   ░░░░░░░░░░░░░░░░░    6.8%
-JSON          45 mins        ░░░░░░░░░░░░░░░░░    4.1%
-Other         5 mins         ░░░░░░░░░░░░░░░░░    0.4%
-```
-
----
 
 <div align="center">
 
