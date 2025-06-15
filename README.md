@@ -7,9 +7,11 @@
 
 *Building fast, scalable, and maintainable web applications that deliver exceptional user experiences*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umidjon-vokhidov)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umidjonvokhidov@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=umidjonvokhidov&color=0e75b6&style=flat&label=Profile+Views)
 
 </div>
 
@@ -17,25 +19,35 @@
 
 ## 🎯 About Me
 
-I'm a passionate **Full-stack Developer** specializing in modern web technologies. I love crafting digital experiences that are not only visually appealing but also performant and scalable. With expertise in **Next.js** and the **MERN stack**, I turn ideas into reality through clean, maintainable code.
+I'm a passionate **Full-stack Developer** with expertise in modern web technologies. I specialize in creating **scalable web applications** using **Next.js** and the **MERN stack**. My focus is on writing clean, maintainable code that delivers outstanding user experiences and optimal performance.
+
+- 🔭 Currently working on **enterprise-level web applications**
+- 🌱 Continuously learning **advanced React patterns** and **performance optimization**
+- 👯 Open to collaborating on **innovative projects**
+- 💬 Ask me about **React, Next.js, Node.js, TypeScript, or MongoDB**
+- ⚡ Fun fact: I love optimizing applications for maximum performance!
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### Frontend
+### Core Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### Backend & Database
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -46,7 +58,7 @@ I'm a passionate **Full-stack Developer** specializing in modern web technologie
 
 ---
 
-## 💼 What I Bring to the Table
+## 💼 What I Specialize In
 
 <table>
 <tr>
@@ -54,79 +66,100 @@ I'm a passionate **Full-stack Developer** specializing in modern web technologie
 
 ### 🎨 Frontend Excellence
 - **React.js & Next.js** (SSR, SSG, ISR)
-- **SEO-optimized** applications
-- **Responsive design** with Tailwind CSS
-- **Component-based architecture**
-- **Performance optimization**
+- **Responsive Design** with modern CSS frameworks
+- **Component-based Architecture**
+- **SEO Optimization** & Performance tuning
+- **TypeScript** for type-safe development
 
 </td>
 <td width="50%">
 
-### ⚙️ Backend Mastery
-- **RESTful APIs** with Node.js & Express
-- **Database design** with MongoDB
-- **Authentication & Authorization** (JWT, OAuth)
-- **Security best practices**
-- **Scalable architectures**
+### ⚙️ Backend Expertise
+- **RESTful APIs** with Node.js & Express.js
+- **Database Design** & optimization with MongoDB
+- **Authentication & Authorization** systems
+- **Full-Stack Development** end-to-end
+- **Web Development** best practices
 
 </td>
 </tr>
 </table>
 
-### 🚀 Specialized Solutions
-- **Admin Dashboards & CRM Systems**
-- **E-commerce Platforms** with payment integrations
-- **Authentication Systems** with RBAC
-- **Performance Optimization** & Code Refactoring
-- **SEO Implementation** (metadata, sitemaps, schema markup)
+### 🚀 Development Focus Areas
+- **Full-Stack Development** with MERN stack
+- **Front-End Development** with modern React patterns
+- **Back-End Development** with scalable Node.js architecture
+- **Responsive Design** for all device types
+- **Performance Optimization** and code efficiency
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=umidjonvokhidov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umidjonvokhidov&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umidjonvokhidov&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🌟 Why Choose Me?
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-| 💡 **Clean Code** | 🚀 **Fast Delivery** | 🤝 **Great Communication** | 📈 **Scalable Solutions** |
-|:-----------------:|:--------------------:|:---------------------------:|:--------------------------:|
-| Following best practices | Timely project completion | Transparent updates | Future-proof architecture |
+![Trophy](https://github-profile-trophy.vercel.app/?username=umidjonvokhidov&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🌟 Why Work With Me?
 
-- 🔭 Working on **scalable web applications** with Next.js
-- 🌱 Learning **advanced React patterns** and **performance optimization**
-- 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **React, Next.js, Node.js, or MongoDB**
+<div align="center">
+
+| 💡 **Clean Code** | 🚀 **Performance Focus** | 🤝 **Collaboration** | 📈 **Scalable Solutions** |
+|:-----------------:|:------------------------:|:---------------------:|:--------------------------:|
+| Following industry best practices | Optimized for speed & SEO | Clear communication | Future-proof architecture |
+
+</div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true)
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umidjonvokhidov&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umidjonvokhidov&repo=your-best-project&theme=tokyonight&hide_border=true)](https://github.com/umidjonvokhidov/your-best-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umidjonvokhidov&repo=another-great-project&theme=tokyonight&hide_border=true)](https://github.com/umidjonvokhidov/another-great-project)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
 
-**⭐️ Check out my repositories below and let's build something amazing together!**
+**Let's connect and build something amazing together! 🚀**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umidjon-vokhidov)
 
 </div>
