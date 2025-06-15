@@ -145,8 +145,8 @@ I'm a passionate **Full-stack Developer** from Uzbekistan with 3+ years of exper
 <div align="center">
 
 <!-- Replace these with your actual repository names -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umidjonvokhidov&repo=ecommerce-nextjs&theme=tokyonight&hide_border=true)](https://github.com/umidjonvokhidov/SalesSync)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umidjonvokhidov&repo=task-management-app&theme=tokyonight&hide_border=true)](https://github.com/umidjonvokhidov/bazpay)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umidjonvokhidov&repo=SalesSync&theme=tokyonight&hide_border=true)](https://github.com/umidjonvokhidov/SalesSync)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umidjonvokhidov&repo=bazpay&theme=tokyonight&hide_border=true)](https://github.com/umidjonvokhidov/bazpay)
 
 </div>
 
