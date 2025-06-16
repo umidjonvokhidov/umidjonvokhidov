@@ -144,7 +144,6 @@ I'm a passionate **Full-stack Developer** from Uzbekistan with 3+ years of exper
 
 <div align="center">
 
-<!-- Replace these with your actual repository names -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umidjonvokhidov&repo=SalesSync&theme=tokyonight&hide_border=true)](https://github.com/umidjonvokhidov/SalesSync)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umidjonvokhidov&repo=bazpay&theme=tokyonight&hide_border=true)](https://github.com/umidjonvokhidov/bazpay)
 
