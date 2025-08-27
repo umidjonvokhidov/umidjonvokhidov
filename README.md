@@ -6,12 +6,9 @@
 
 *Building fast, scalable, and maintainable web applications that deliver exceptional user experiences*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umidjon-vokhidov)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://umidjonvokhidov.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umidjonvokhidov@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/umidjon-vokhidov](https://www.linkedin.com/in/umidjon-vokhidov-1126132b8/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umidjonvokhidov.uz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umidjonvokhidov)
-
-![Profile Views](https://komarev.com/ghpvc/?username=umidjonvokhidov&color=0e75b6&style=flat&label=Profile+Views)
 
 </div>
 
@@ -64,6 +61,7 @@ Hi there! I'm a **Full-stack Developer** specializing in **Next.js** and the **M
 
 Feel free to reach out if you need a reliable, communicative developer to bring your project to life.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umidjon-vokhidov)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://umidjonvokhidov.vercel.app)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umidjonvokhidov@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/umidjon-vokhidov](https://www.linkedin.com/in/umidjon-vokhidov-1126132b8/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umidjonvokhidov.uz@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umidjonvokhidov)
